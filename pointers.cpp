@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
+    // & has two meanings: "address of" or "reference"
     int x = 124;
     int *ptr = &x;
 
